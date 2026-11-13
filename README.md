@@ -11,10 +11,11 @@ Short write-ups of infrastructure projects I worked on as an IT Infrastructure A
 | # | Project | What it shows |
 |---|---------|---------------|
 | 1 | [An internal web app that replaced spreadsheets](01-internal-ops-web-app.md) | Building and releasing software safely, access control, Microsoft Graph |
-| 2 | [Permissions cleanup across 500+ SharePoint sites](02-sharepoint-permissions-cleanup.md) | Changing access at scale without causing an outage, audit before acting, reversibility |
-| 3 | [Certificate-expiry monitoring](03-certificate-expiry-monitoring.md) | Reliability work that prevents incidents before they happen |
-| 4 | [Phased BitLocker rollout and compliance tracking](04-bitlocker-rollout.md) | Endpoint security delivered in phases with measurable reporting |
-| 5 | [Backup coverage review](05-backup-coverage-review.md) | Finding gaps nobody had listed, and reporting them clearly |
+| 2 | [Automating Azure Front Door certificate renewal with Jenkins](02-azure-front-door-certificate-auto-renewal.md) | Automating a risky recurring task with safe rollout, least privilege and an audit trail |
+| 3 | [Permissions cleanup across 500+ SharePoint sites](03-sharepoint-permissions-cleanup.md) | Changing access at scale without causing an outage, audit before acting, reversibility |
+| 4 | [Certificate-expiry monitoring](04-certificate-expiry-monitoring.md) | Reliability work that prevents incidents before they happen |
+| 5 | [Phased BitLocker rollout and compliance tracking](05-bitlocker-rollout.md) | Endpoint security delivered in phases with measurable reporting |
+| 6 | [Backup coverage review](06-backup-coverage-review.md) | Finding gaps nobody had listed, and reporting them clearly |
 
 ## Related
 

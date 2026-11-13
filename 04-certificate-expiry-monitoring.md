@@ -1,4 +1,4 @@
-# 3. Certificate-expiry monitoring
+# 4. Certificate-expiry monitoring
 
 [← All case studies](README.md)
 

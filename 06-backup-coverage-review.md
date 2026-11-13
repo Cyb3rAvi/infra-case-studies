@@ -1,4 +1,4 @@
-# 5. Backup coverage review
+# 6. Backup coverage review
 
 [← All case studies](README.md)
 

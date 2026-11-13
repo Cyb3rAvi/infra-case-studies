@@ -1,4 +1,4 @@
-# 4. Phased BitLocker rollout and compliance tracking
+# 5. Phased BitLocker rollout and compliance tracking
 
 [← All case studies](README.md)
 

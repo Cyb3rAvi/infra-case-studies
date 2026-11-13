@@ -1,4 +1,4 @@
-# 2. Permissions cleanup across 500+ SharePoint sites
+# 3. Permissions cleanup across 500+ SharePoint sites
 
 [← All case studies](README.md)
 
