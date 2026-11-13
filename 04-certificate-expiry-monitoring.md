@@ -3,6 +3,7 @@
 [← All case studies](README.md)
 
 **Role:** built and maintain it  ·  **Scale:** around 60 endpoints  ·  **Status:** running
+**Skills:** PowerShell · scheduled jobs · TLS certificates · Entra application credentials · email alerting  ·  **Reading time:** about 2 minutes
 
 ## Problem
 TLS certificates and application credentials expired without warning, because expiry dates were tracked in people's heads and spreadsheets. An expired certificate is a preventable outage.
@@ -34,3 +35,5 @@ The alert goes to one mailbox. It only knows about endpoints that are on the lis
 - Send alerts to a shared mailbox or channel, so it survives staff changes.
 - Feed the same list into the existing monitoring tool so there is one alerting path.
 - Record who owns each certificate, not just when it expires.
+
+*Last reviewed: November 2026*

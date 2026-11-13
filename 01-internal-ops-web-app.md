@@ -3,6 +3,7 @@
 [← All case studies](README.md)
 
 **Role:** designed and built it, with AI assistance for code drafts and tests  ·  **Scale:** about 300 servers and 7,000+ IP records  ·  **Status:** in use, still being extended
+**Skills:** PHP · Microsoft Graph · Entra ID sign-in · access control · release process · automated testing  ·  **Reading time:** about 2 minutes
 
 ## Problem
 Server inventory, patch schedules and onboarding and offboarding checklists lived in spreadsheets and separate documents. They drifted apart, and the help desk had to ask infrastructure for simple lookups: who has access to a SharePoint site, how full a mailbox is, why a OneDrive was unavailable.
@@ -59,3 +60,5 @@ Some pages and checks are still being finished. Mailbox archive detail and who-h
 - Write the automated tests earlier; most were added after the features existed.
 - Move to a framework with built-in input validation and migrations as the app grows beyond a few pages.
 - Keep a short architecture note from day one, so another person can take it over.
+
+*Last reviewed: November 2026*

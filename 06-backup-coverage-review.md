@@ -3,6 +3,7 @@
 [← All case studies](README.md)
 
 **Role:** carried out the review and produced the report  ·  **Scale:** virtual machines across cloud and on-premises  ·  **Status:** review complete; follow-up decisions pending
+**Skills:** Azure · Hyper-V · backup reporting · Excel reporting  ·  **Reading time:** about 2 minutes
 
 ## Problem
 Backups existed, but nobody had a single list of which virtual machines were protected, which were not, and which backups were stale. The question "is everything backed up?" could not be answered.
@@ -33,3 +34,5 @@ This is a point-in-time review, not continuous monitoring. It does not judge whe
 - Make the comparison a scheduled report, so a new machine without backup is caught within days.
 - Agree up front what "protected" means (frequency and retention), so the list is judged against a clear standard.
 - Add a periodic restore test.
+
+*Last reviewed: November 2026*

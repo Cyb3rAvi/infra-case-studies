@@ -3,6 +3,7 @@
 [← All case studies](README.md)
 
 **Role:** audited and ran the cleanup  ·  **Scale:** 500+ SharePoint Online sites  ·  **Status:** completed for the sites in scope; a group of sites is held for follow-up
+**Skills:** SharePoint Online · Entra ID · PowerShell · audit and rollback logging  ·  **Reading time:** about 2 minutes
 
 ## Problem
 Over time, many SharePoint Online sites had accumulated administrators and owners who no longer worked there (disabled or deleted accounts), and there was no standard admin group across sites. That made access reviews slow and left some sites without an active owner.
@@ -57,3 +58,5 @@ The held sites and the few locked sites are not fixed by this work and need foll
 ## What I'd improve
 - Agree the list of named owners **before** starting, so fewer sites need to be held.
 - Turn the audit into a scheduled report, so the problem is caught as it appears, not once a year.
+
+*Last reviewed: November 2026*

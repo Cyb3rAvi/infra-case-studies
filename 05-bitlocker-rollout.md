@@ -3,6 +3,7 @@
 [← All case studies](README.md)
 
 **Role:** helped roll it out, built the tracking and reporting  ·  **Scale:** several hundred endpoints  ·  **Status:** rolled out in phases
+**Skills:** Intune · Entra ID device groups · BitLocker · compliance reporting  ·  **Reading time:** about 2 minutes
 
 ## Problem
 Disk encryption was inconsistent across laptops, and there was no reliable view of which devices were encrypted, which were blocked by a hardware or setting problem, and whether a recovery key was stored.
@@ -32,3 +33,5 @@ The report shows state at the time it is run; it is not a live dashboard. Hardwa
 ## What I'd improve
 - Check hardware readiness (Secure Boot, TPM, disk) **before** each phase, to reduce failures during the rollout. A readiness script like the one in the [toolkit](https://github.com/Cyb3rAvi/infrastructure-automation-toolkit) does this.
 - Automate the weekly compliance report instead of running it by hand.
+
+*Last reviewed: November 2026*
