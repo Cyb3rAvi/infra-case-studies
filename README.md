@@ -18,6 +18,7 @@ Each study takes about two to three minutes to read.
 | 4 | [Certificate-expiry monitoring](04-certificate-expiry-monitoring.md) | Reliability work that prevents incidents before they happen | Running |
 | 5 | [Phased BitLocker rollout and compliance tracking](05-bitlocker-rollout.md) | Endpoint security delivered in phases with measurable reporting | Rolled out in phases |
 | 6 | [Backup coverage review](06-backup-coverage-review.md) | Finding gaps nobody had listed, and reporting them clearly | Review complete |
+| 7 | [Stopping a repeating HP driver update with Intune remediations](07-hp-driver-update-loop.md) | Diagnosing a recurring fault, narrow targeted fix, survey before change | In progress; one step still unproven |
 
 ## Related
 
