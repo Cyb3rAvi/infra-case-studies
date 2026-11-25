@@ -61,4 +61,6 @@ Some pages and checks are still being finished. Mailbox archive detail and who-h
 - Move to a framework with built-in input validation and migrations as the app grows beyond a few pages.
 - Keep a short architecture note from day one, so another person can take it over.
 
+**Full write-up:** modules, architecture, safety design and release process are in the [ops-hub repo](https://github.com/Cyb3rAvi/ops-hub).
+
 *Last reviewed: November 2026*
